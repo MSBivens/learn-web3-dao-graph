@@ -24,7 +24,7 @@ Rinkeby Contract Link on [Polygonscan](https://mumbai.polygonscan.com/address/0x
 
 - Using the Graph Protocol
 - Hardhat & Ethers.js
-- React.js
+- Next.js
 
 ## Technology/Websites used:
 
@@ -32,4 +32,4 @@ Rinkeby Contract Link on [Polygonscan](https://mumbai.polygonscan.com/address/0x
 - [The Graph](https://thegraph.com/en/)
 - [Hardhat](https://hardhat.org/)
 - [Ethers.js](https://docs.ethers.io/v5/)
-- [React.js](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
