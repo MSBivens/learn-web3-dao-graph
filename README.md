@@ -20,11 +20,13 @@ Contract Deployment Address on Mumbai: 0x5A98542385eB2C24aC19190ba5982873EC9Fcb3
 
 Rinkeby Contract Link on [Polygonscan](https://mumbai.polygonscan.com/address/0x5A98542385eB2C24aC19190ba5982873EC9Fcb34)
 
+See the deployed site on [Vercel](https://learn-web3-dao-graph.vercel.app/)
+
 ## This tutorial covers:
 
 - Using the Graph Protocol
 - Hardhat & Ethers.js
-- Next.js
+- Next.js, Vercel
 
 ## Technology/Websites used:
 
@@ -33,3 +35,4 @@ Rinkeby Contract Link on [Polygonscan](https://mumbai.polygonscan.com/address/0x
 - [Hardhat](https://hardhat.org/)
 - [Ethers.js](https://docs.ethers.io/v5/)
 - [Next.js](https://nextjs.org/)
+- [Vercel](https://vercel.com/)
